@@ -3,7 +3,7 @@ import paths from "./configs/paths";
 import HomePage from "./pages/HomePage";
 import UseRef from "./pages/UseRef";
 import EditAvatar from "./pages/EditAvatar";
-import ReactMemo from "./pages/ReactMemo";
+import ReactMemo from "./pages/ReactMemo/ReactMemo";
 
 const routes = [
   { path: paths.home, component: HomePage },
